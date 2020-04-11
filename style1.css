@@ -1,0 +1,61 @@
+﻿body {
+	color: #ffffff;
+	font-size: 20px;
+	font-family: Comic sans MS, Arial;
+	text-align: center;
+	background: #330033
+		}
+a {
+	color: #ffffff;
+	text-decoration: none
+		}
+header {
+	background: url(violet.jpg);
+	height: 150px;
+	margin-top: 50px
+		}
+sidebar {
+	background: url(777.jpg) no-repeat;
+	width: 20%;
+	height: 300px;
+	float: right;
+	margin-top: 50px;
+	margin-right: 70px
+		}
+sidebar:hover{
+	background: url(3axes.jpg) no-repeat
+		}
+footer {
+	background: url(azino.png) no-repeat;
+	width: 20%;
+	height: 300px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px
+		}
+footer:hover{
+	background: url(reftel.png) no-repeat
+		}
+content {
+	background: #550055;
+	width: 20%;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px
+		}
+p {
+	background: url(violet.jpg);
+	width: 100px;
+	border-radius: 10px;
+	margin-left: 70px
+		}
+p:hover {
+	color: #ff00ff;
+	background: #330033
+		}
+div {
+	color: #ffff00
+		}
+div:hover {
+	color: #00ff00
+		}

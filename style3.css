@@ -1,0 +1,62 @@
+﻿body {
+	color: #ffffff;
+	font-size: 20px;
+	font-family: Comic sans MS, Arial;
+	text-align: center;
+	background-color: #330000
+		}
+a {
+	color: #ffffff;
+	text-decoration: none
+		}
+header {
+	background: url(red.jpg);
+	height: 150px;
+	margin-top: 50px
+		}
+sidebar {
+	background: url(spoon.jpg) no-repeat;
+	width: 20%;
+	height: 300px;
+	float: right;
+	margin-top: 50px;
+	margin-right: 70px
+		}
+sidebar:hover{
+	background: url(broom.jpg) no-repeat
+		}
+footer {
+	background: url(nitro.jpg) no-repeat;
+	width: 20%;
+	height: 300px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px
+		}
+footer:hover{
+	background: url(ass.png) no-repeat
+		}
+content {
+	background: #550000;
+	width: 20%;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px
+		}
+p {
+	background: url(red.jpg);
+	width: 150px;
+	border-color: #ff0000;
+	border-width: 2px;
+	border-radius: 10px;
+	margin-left: 70px
+		}
+p:hover {
+	background: #330000
+		}
+.sib {
+	color: #00ffff
+		}
+.sib:hover {
+	color: #000000
+		}

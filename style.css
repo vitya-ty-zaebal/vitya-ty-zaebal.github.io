@@ -1,0 +1,59 @@
+﻿body {
+	color: #ffffff;
+	font-size: 20px;
+	font-family: Comic sans MS, Arial;
+	text-align: center;
+	background: #ff7700
+		}
+a {
+	color: #ffffff;
+	text-decoration: none
+		}
+header {
+	background: url(orange.jpg);
+	height: 150px;
+	margin-top: 50px
+		}
+sidebar {
+	background: url(kid.jpg) no-repeat;
+	width: 20%;
+	height: 300px;
+	float: right;
+	margin-top: 50px;
+	margin-right: 70px
+		}
+sidebar:hover{
+	background: url(alkash.jpg) no-repeat
+		}
+footer {
+	background: url(boy.jpg) no-repeat;
+	width: 20%;
+	height: 300px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px
+		}
+footer:hover{
+	background: url(chaika.jpg) no-repeat
+		}
+content {
+	background: #ff9900;
+	width: 20%;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px
+		}
+p {
+	background: url(orange.jpg);
+	width: 100px;
+	border-radius: 10px;
+	margin-left: 70px
+		}
+p:hover {
+	background: #ff7700
+		}
+
+
+
+
+

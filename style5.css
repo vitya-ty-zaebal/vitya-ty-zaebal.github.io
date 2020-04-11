@@ -1,0 +1,51 @@
+﻿body {
+	color: #ffffff;
+	font-size: 20px;
+	font-family: Comic sans MS, Arial;
+	text-align: center;
+	background: url(bg.png)
+		}
+header {
+	background: url(yellow.jpg);
+	height: 150px;
+	margin-top: 50px
+		}
+a {
+	color: #ffffff;
+	text-decoration: none
+		}
+sidebar {
+	background: url(kakoy.jpg) no-repeat;
+	width: 20%;
+	height: 300px;
+	float: right;
+	text-align: left;
+	margin-top: 50px;
+	margin-right: 70px
+		}
+sidebar:hover {
+	background: none
+		}
+footer {
+	background: url(ty.jpg) no-repeat;
+	width: 20%;
+	height: 300px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px
+		}
+footer:hover{
+	background: url(horosh.jpg) no-repeat
+		}
+content {
+	background: #ffff00;
+	width: 20%;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px
+		}
+
+
+
+
+

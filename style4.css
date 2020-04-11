@@ -1,0 +1,75 @@
+﻿body {
+	color: #ffffff;
+	font-size: 20px;
+	font-family: Comic sans MS, Arial;
+	text-align: center;
+	background-color: #003300
+		}
+embed {
+	autostart: true;
+	hidden: true;
+	loop: false
+		}
+a {
+	color: #ffffff;
+	text-decoration: none
+		}
+header {
+	background: url(green.jpg);
+	height: 150px;
+	margin-top: 50px
+		}
+sidebar {
+	background: url(tayga.jpg) no-repeat;
+	width: 20%;
+	height: 300px;
+	float: right;
+	margin-top: 50px;
+	margin-right: 70px
+		}
+sidebar:hover{
+	background: url(prud.jpg) no-repeat
+		}
+footer {
+	background: url(toyota.jpg) no-repeat;
+	width: 20%;
+	height: 300px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px
+		}
+footer:hover{
+	background: url(ural.jpg) no-repeat
+		}
+content {
+	background: #005500;
+	width: 20%;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px
+		}
+p {
+	background: url(green.jpg);
+	width: 150px;
+	border-color: #00ff00;
+	border-width: 2px;
+	border-radius: 10px;
+	margin-left: 70px
+		}
+p:hover {
+	background: #003300
+		}
+p:click {
+	audio src="2776_Paul_Whiteman_and_His_Orchestra_-_Gypsy_Blues.mp3"
+		}
+
+
+
+
+
+
+
+
+
+
+
